@@ -11,7 +11,6 @@ releases a large batch of data associated with these reports. In this assignment
 Advise government agencies about how to improve road safety and create a model that would
 predict such accidents and the injuries that they incur.
 
-# The questions (at minimum) that the assignment should address are as follows:
 - Are there significant hours of the day, and days of the week, on which accidents occur?
   
 - For motorbikes, are there significant hours of the day, and days of the week, on which accidents occur? We suggest a focus on: Motorcycle 125cc and under, Motorcycle over 125cc and up to 500cc, and Motorcycle over 500cc.
